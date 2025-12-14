@@ -3,7 +3,7 @@ name: Build M30s Kernel
 on:
   push:
     branches:
-      - main
+      - SM-M3070
   workflow_dispatch:
 
 jobs:
